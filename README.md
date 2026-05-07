@@ -16,7 +16,7 @@ My work centers on turning fragmented or complex data into clear, decision‑rea
 
 ## Sample Analytics Projects
 
-All projects referenced on the site use **public, sample, or instructional data only**.  
+Selected examples demonstrating how I approach analytics, reporting, and dashboard design using public or instructional data. All projects referenced on the site use **public, sample, or instructional data only**.  
 No proprietary, employer, or internal data is included.
 
 ### Databricks Analytics Dashboard (Sample Data)
