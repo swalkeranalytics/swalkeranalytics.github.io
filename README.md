@@ -46,4 +46,17 @@ A training dashboard created during a structured Power BI learning session to pr
 ## Purpose of This Site
 
 This site is intended to:
+- Provide context on how I approach analytics work
+- Highlight selected sample projects using non‑proprietary data
+- Link to supporting GitHub repositories with detailed documentation
 
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/swalker010  
+- GitHub: https://github.com/swalkeranalytics  
+
+---
+
+_All content is shared for demonstration and professional development purposes only._
